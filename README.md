@@ -24,6 +24,19 @@ datasets.
   the results of your data integration pipeline, and, finally, against your
 integrated and cleaned data.
 
+## Datasets and Resources
+
+### Disease Prevalence Data
+-- https://ghdx.healthdata.org/gbd-2019
+-- https://seer.cancer.gov/data/
+
+### Healthcare Access and Utilization Data
+-- https://stats.oecd.org/viewhtml.aspx?datasetcode=HEALTH_PROC&lang=en
+
+
+### Demographic and Socioeconomic Data
+-- https://data.census.gov/table?tid=ACSST1Y2021.S0101
+
 ## Documentation
 
 All code documentation and instructions should be placed in this `README.md`;
